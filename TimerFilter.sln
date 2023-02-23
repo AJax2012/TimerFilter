@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerFilter", "src\TimerFilter.csproj", "{CF887A9C-11D0-4127-98BF-FAC3F39EE5C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerFilter.ExampleApi", "example\TimerFilter.ExampleApi.csproj", "{D6F7AE16-D329-4BAC-A777-C7643DD88DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF887A9C-11D0-4127-98BF-FAC3F39EE5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF887A9C-11D0-4127-98BF-FAC3F39EE5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF887A9C-11D0-4127-98BF-FAC3F39EE5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF887A9C-11D0-4127-98BF-FAC3F39EE5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F7AE16-D329-4BAC-A777-C7643DD88DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F7AE16-D329-4BAC-A777-C7643DD88DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F7AE16-D329-4BAC-A777-C7643DD88DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F7AE16-D329-4BAC-A777-C7643DD88DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
